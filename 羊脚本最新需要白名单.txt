@@ -10,6 +10,7 @@ CoreGui:SetCore("SendNotification", {
 
 local WhitelistedPlayers = {
     ["DFTRQ24"] = true,
+    ["yzc60555"] = true,
     ["Ruomesr"] = true,
     ["Moster_gas"] = true,
     ["rettdseq"] = true,
