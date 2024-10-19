@@ -19,6 +19,7 @@ local WhitelistedPlayers = {
     ["ajhsbddb9"] = true,
     ["yydswaso"] = true,
     ["robott511"] = true,
+    ["FeCreate"] = true,
 }
 
 local function IsWhitelisted(player)
