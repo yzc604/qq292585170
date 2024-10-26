@@ -22,6 +22,7 @@ local WhitelistedPlayers = {
     ["FeCreate"] = true,
     ["Infect724"] = true,
     ["yujiaqi201314"] = true,
+    ["Daz10086"] = true,
 }
 
 local function IsWhitelisted(player)
