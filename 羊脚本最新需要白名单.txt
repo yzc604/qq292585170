@@ -25,6 +25,7 @@ local WhitelistedPlayers = {
     ["Daz10086"] = true,
     ["yz888888"] = true,
     ["CN_VTR"] = true,
+    ["qwertyu202028"] = true,
 }
 
 local function IsWhitelisted(player)
