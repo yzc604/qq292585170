@@ -26,6 +26,9 @@ local WhitelistedPlayers = {
     ["yz888888"] = true,
     ["CN_VTR"] = true,
     ["qwertyu202028"] = true,
+    ["CN_KLFX5"] = true,
+    ["CN_KLFX"] = true,
+    ["CN_KLFX4"] = true,
 }
 
 local function IsWhitelisted(player)
