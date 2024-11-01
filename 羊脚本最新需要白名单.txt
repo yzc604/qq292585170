@@ -9,21 +9,7 @@ CoreGui:SetCore("SendNotification", {
 })
 
 local WhitelistedPlayers = {
-    ["DFTRQ24"] = true,
-    ["yzc60555"] = true,
-    ["Ruomesr"] = true,
-    ["Moster_gas"] = true,
-    ["rettdseq"] = true,
-    ["QwQ_vkt"] = true,
-    ["ecic001"] = true,
-    ["ajhsbddb9"] = true,
-    ["yydswaso"] = true,
-    ["robott511"] = true,
-    ["FeCreate"] = true,
-    ["Infect724"] = true,
-    ["yujiaqi201314"] = true,
-    ["Daz10086"] = true,
-    ["yz888888"] = true,
+https://raw.githubusercontent.com/yzc604/wcnm/refs/heads/main/wcnm.txt
 }
 
 local function IsWhitelisted(player)
